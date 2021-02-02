@@ -1,0 +1,15 @@
+{
+    "name": "digiservnet/eloquent-hasuuids",
+    "description": "Simple Eloquent Model UUID trait.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ian.H",
+            "email": "ian.h@digiserv.net"
+        }
+    ],
+    "require": {
+        "ramsey/uuid": "^4.1"
+    }
+}

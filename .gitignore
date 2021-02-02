@@ -1,0 +1,8 @@
+vendor/
+.DS_Store
+.idea/
+.editorconfig
+build/
+api.key
+.phpunit.result.cache
+docker-compose.yml
