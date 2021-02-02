@@ -12,7 +12,7 @@ trait HasUuids
 
         static::creating(static function ($model) {
             if (!$model->getKey()) {
-                $model->{$model->getKeyName()} = Uuid::uuid()->toString();
+                $model->{$model->getKeyName()} = Uuid::uuid4()->toString();
             }
         });
     }
