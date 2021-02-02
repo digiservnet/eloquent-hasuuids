@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Traits;
+namespace Digiservnet\EloquentHasUuids;
 
 use Ramsey\Uuid\Uuid;
 
