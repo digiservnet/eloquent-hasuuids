@@ -10,7 +10,7 @@
         }
     ],
     "require": {
-        "ramsey/uuid": "^4.1"
+        "ramsey/uuid": "^3.9|^4.1"
     },
     "autoload": {
         "psr-4": {
